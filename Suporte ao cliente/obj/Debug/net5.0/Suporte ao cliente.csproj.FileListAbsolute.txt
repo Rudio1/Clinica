@@ -1,0 +1,16 @@
+D:\GitHub\csharp_consolesuportclient\Suporte ao cliente\bin\Debug\net5.0\Suporte ao cliente.exe
+D:\GitHub\csharp_consolesuportclient\Suporte ao cliente\bin\Debug\net5.0\Suporte ao cliente.deps.json
+D:\GitHub\csharp_consolesuportclient\Suporte ao cliente\bin\Debug\net5.0\Suporte ao cliente.runtimeconfig.json
+D:\GitHub\csharp_consolesuportclient\Suporte ao cliente\bin\Debug\net5.0\Suporte ao cliente.runtimeconfig.dev.json
+D:\GitHub\csharp_consolesuportclient\Suporte ao cliente\bin\Debug\net5.0\Suporte ao cliente.dll
+D:\GitHub\csharp_consolesuportclient\Suporte ao cliente\bin\Debug\net5.0\ref\Suporte ao cliente.dll
+D:\GitHub\csharp_consolesuportclient\Suporte ao cliente\bin\Debug\net5.0\Suporte ao cliente.pdb
+D:\GitHub\csharp_consolesuportclient\Suporte ao cliente\obj\Debug\net5.0\Suporte ao cliente.csproj.AssemblyReference.cache
+D:\GitHub\csharp_consolesuportclient\Suporte ao cliente\obj\Debug\net5.0\Suporte ao cliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\csharp_consolesuportclient\Suporte ao cliente\obj\Debug\net5.0\Suporte ao cliente.AssemblyInfoInputs.cache
+D:\GitHub\csharp_consolesuportclient\Suporte ao cliente\obj\Debug\net5.0\Suporte ao cliente.AssemblyInfo.cs
+D:\GitHub\csharp_consolesuportclient\Suporte ao cliente\obj\Debug\net5.0\Suporte ao cliente.csproj.CoreCompileInputs.cache
+D:\GitHub\csharp_consolesuportclient\Suporte ao cliente\obj\Debug\net5.0\Suporte ao cliente.dll
+D:\GitHub\csharp_consolesuportclient\Suporte ao cliente\obj\Debug\net5.0\ref\Suporte ao cliente.dll
+D:\GitHub\csharp_consolesuportclient\Suporte ao cliente\obj\Debug\net5.0\Suporte ao cliente.pdb
+D:\GitHub\csharp_consolesuportclient\Suporte ao cliente\obj\Debug\net5.0\Suporte ao cliente.genruntimeconfig.cache
